@@ -1,3 +1,5 @@
+[![Alt text](https://img.youtube.com/vi/yrceG1SMCjI/0.jpg)](https://www.youtube.com/watch?v=yrceG1SMCjI)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
